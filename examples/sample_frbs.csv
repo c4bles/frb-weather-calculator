@@ -1,0 +1,31 @@
+FRB_name,M_star,SFR,sSFR,age_gyr,environment,repeater_status,observed_burst_rate,source
+FRB 20121102A,1000000000.0,0.8,8e-10,5.0,field,repeater,12.0,CHIME/Arecibo
+FRB 20180916B,2000000000.0,1.5,7.5e-10,4.5,field,repeater,8.0,CHIME
+FRB 20200120E,500000000.0,0.3,6e-10,6.0,field,repeater,15.0,CHIME
+FRB 20190520B,1500000000.0,1.0,6.7e-10,5.5,field,repeater,10.0,FAST
+FRB_R01,387000000.0,1.539,3.98e-09,3.96,field,repeater,6.993457009889102,Synthetic
+FRB_R02,331000000.0,0.841,2.54e-09,5.25,field,repeater,6.31019519965741,Synthetic
+FRB_R03,2920000000.0,0.952,3.26e-10,6.66,field,repeater,13.82300934699643,Synthetic
+FRB_R04,813000000.0,0.489,6.02e-10,4.31,field,repeater,19.97943103741548,Synthetic
+FRB_R05,336000000.0,0.411,1.22e-09,4.54,field,repeater,17.933979060220917,Synthetic
+FRB_R06,509000000.0,1.058,2.08e-09,5.64,field,repeater,16.365081878948452,Synthetic
+FRB_O01,12000000000.0,0.002,1.47e-13,12.23,field,one-off,0.0,Synthetic
+FRB_O02,14300000000.0,0.001,7.54e-14,11.64,group,one-off,0.0,Synthetic
+FRB_O03,42900000000.0,0.003,7.3e-14,11.59,group,one-off,0.0,Synthetic
+FRB_O04,12500000000.0,0.003,2.44e-13,11.78,cluster,one-off,0.0,Synthetic
+FRB_O05,15200000000.0,0.006,4.23e-13,11.65,field,one-off,0.0,Synthetic
+FRB_O06,14000000000.0,0.003,2.14e-13,11.55,cluster,one-off,0.0,Synthetic
+FRB_O07,12900000000.0,0.001,8.38e-14,10.62,field,one-off,0.0,Synthetic
+FRB_O08,51100000000.0,0.001,2.18e-14,10.26,group,one-off,0.0,Synthetic
+FRB_O09,11200000000.0,0.004,3.18e-13,10.74,field,one-off,0.0,Synthetic
+FRB_O10,23200000000.0,0.003,1.4e-13,11.07,group,one-off,0.0,Synthetic
+FRB_U01,6650000000.0,0.912,1.37e-10,7.77,field,unknown,,Synthetic
+FRB_U02,84900000000.0,0.021,2.46e-13,8.92,field,unknown,,Synthetic
+FRB_U03,23300000000.0,0.261,1.12e-11,7.82,field,unknown,,Synthetic
+FRB_U04,1370000000.0,0.084,6.11e-11,5.89,field,unknown,,Synthetic
+FRB_U05,7920000000.0,0.117,1.48e-11,6.22,field,unknown,,Synthetic
+FRB_U06,2970000000.0,0.351,1.18e-10,6.63,field,unknown,,Synthetic
+FRB_U07,58100000000.0,0.019,3.34e-13,8.11,field,unknown,,Synthetic
+FRB_U08,11100000000.0,0.803,7.23e-11,6.34,field,unknown,,Synthetic
+FRB_U09,2990000000.0,0.203,6.81e-11,7.63,field,unknown,,Synthetic
+FRB_U10,47600000000.0,0.115,2.42e-12,6.64,field,unknown,,Synthetic
